@@ -29,10 +29,40 @@
     <div class="container main-container">
       <div class="home-container col-container">
         <h2 class="home-title title">home</h2>
+        <div class="home-score-container score-container">
+          <h3 class="home-score score">0</h3>
+        </div>
+        <div class="home-add-score add-score">
+          <button id="home-add-one" class="home-btn">+1</button>
+          <button id="home-add-two" class="home-btn">+2</button>
+          <button id="home-add-three" class="home-btn">+3</button>
+        </div>
       </div>
       <div class="away-container col-container">
         <h2 class="away-title title">away</h2>
+        <div class="away-score-container score-container">
+          <h3 class="away-score score">0</h3>
+        </div>
+        <div class="away-add-score add-score">
+          <button id="away-add-one" class="away-btn">+1</button>
+          <button id="away-add-two" class="away-btn">+2</button>
+          <button id="away-add-three" class="away-btn">+3</button>
+        </div>
       </div>
     </div>
+    <div class="btn-container">
+      <button class="reset-btn btn">reset</button>
+      <button class="save-btn btn">save game</button>
+    </div>
+    <div id="games-score">
+      <table id="game-scores" class="hidden">
+        <tr>
+          <th>Home</th>
+          <th>Away</th>
+          <th>Outcome</th>
+        </tr>
+      </table>
+    </div>
+    <script src="app.js"></script>
   </body>
 </html>
