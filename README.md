@@ -17,6 +17,7 @@ I also was able to practice added a single event listener to a div to control al
 reducing the amount of event listeners in the code. 
 
 ### Technologies I used 💻:
+<hr>
 <p align="center">
   <!-- html -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
