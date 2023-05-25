@@ -1,4 +1,4 @@
-# Basketball Scorecard 🏀
+# ShotStat 🏀
 <hr>
 
 This is an app that can be used for basketball score keeping. 
