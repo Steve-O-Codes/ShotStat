@@ -16,6 +16,8 @@ This project allowed me to learn more on HTML tables and how they could be updat
 I also was able to practice added a single event listener to a div to control all three of the add score buttons for the home and away team,
 reducing the amount of event listeners in the code. 
 
+The app can be viewed for live demo here - <a href="https://shotstat.netlify.app/">ShotStat</a>
+
 ### Technologies I used 💻:
 <hr>
 <p align="center">
